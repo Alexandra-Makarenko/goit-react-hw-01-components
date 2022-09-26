@@ -13,5 +13,5 @@ export const Div = styled.div`
 display:flex;
 align-items:center;
 gap:10px;
-border: 1px solid grey;
+
 `;
